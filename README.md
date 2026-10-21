@@ -68,7 +68,7 @@ Sou apaixonado por tecnologia e tenho grande interesse no desenvolvimento de sol
   <a href=https://www.linkedin.com/in/igor-sabino-22975b3b5?utm_source=share_via&utm_content=profile&utm_medium=member_android>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/_mthbrzzi_?igsh=MWg3c3h4cWtjbjJoeA==" target="_blank">
+  <a href=https://www.instagram.com/igor__sabino?dlrf=a2N0dXNoNmh6Mjk0>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
    <a href="mailto:yugosabino@gmail.com" target="_blank">
