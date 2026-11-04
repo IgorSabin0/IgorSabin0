@@ -88,5 +88,9 @@ Sou apaixonado por tecnologia e tenho grande interesse no desenvolvimento de sol
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<h2 align="center">🐍 Minha Cobrinha de Contribuições</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IgorSabin0/IgorSabin0/output/github-snake.svg" />
+</p>
 <br/>
