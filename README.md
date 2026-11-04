@@ -74,23 +74,16 @@ Sou apaixonado por tecnologia e tenho grande interesse no desenvolvimento de sol
    <a href="mailto:yugosabino@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Animação arcade no perfil GitHub"
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-<h2 align="center">🐍 Minha Cobrinha de Contribuições</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IgorSabin0/IgorSabin0/output/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/IgorSabin0/IgorSabin/refs/heads/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/IgorSabin0/IgorSabin/refs/heads/output/github-snake.svg">
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/IgorSabin0/IgorSabin/refs/heads/output/github-snake.svg">
+  </picture>
 </p>
+
 <br/>
